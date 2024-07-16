@@ -7,7 +7,7 @@ Este proyecto consiste en dos scripts de Python: uno para codificar un mensaje e
 
 ### Ejemplo de Uso:
 
-![Imagen 1](./img1.png)
+![Imagen 1](./img/img1.png)
 
 ## Codificador
 
@@ -35,6 +35,6 @@ python decodificador.py
 
 ## Archivo file.txt desde mi neovim
 
-![Imagen 2](./img2.png)
+![Imagen 2](./img/img2.png)
 
 Podemos ver los espacios en blanco y tabulaciones del archivo `file.txt`.
